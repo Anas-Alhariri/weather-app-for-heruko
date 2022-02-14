@@ -1,0 +1,21 @@
+.search-bar {
+    &__input {
+        height: 40px;
+        width: 70%;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        padding-left: 20px;
+        color: rgb(0, 120, 194);
+        font-weight: bold;
+    }
+
+    &__btn {
+        height: 40px;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        color: rgb(0, 120, 194);
+        font-weight: bold;
+        margin-left: 5px;
+        padding: 0 20px;
+    }
+}
